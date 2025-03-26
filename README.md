@@ -1,4 +1,4 @@
-# HandTrackEsp32
+# HandTrackEsp32_OpenCV
 
 A real-time hand tracking system that controls ESP32 LEDs based on finger states using computer vision.
 
